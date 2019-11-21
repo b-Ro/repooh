@@ -1,0 +1,8 @@
+Origin: b___Ro's repooh
+Label: b___Ro's repooh
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: b___Ro's repooh - a cydia repo for custom ios themes
